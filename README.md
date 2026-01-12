@@ -96,7 +96,7 @@
 
 ## GitHub Stats
 
-![amine9812's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![amine9812's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine9812&show_icons=true&theme=radical)
 
 ## Trophies (optional)
 
