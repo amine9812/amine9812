@@ -97,16 +97,8 @@
 ## GitHub Stats
 
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amine9812&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&v=1)](https://github.com/amine9812)
-[![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amine9812&layout=compact&langs_count=10&hide_border=true&v=1)](https://github.com/amine9812)
-
-[![GitHub streak](https://streak-stats.demolab.com?user=amine9812&hide_border=true&v=1)](https://github.com/amine9812)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amine9812&hide_border=true&v=1)](https://github.com/amine9812)
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics for amine9812" />
 </div>
-
 
 
 ---
