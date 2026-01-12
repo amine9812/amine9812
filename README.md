@@ -94,13 +94,16 @@
 
 ---
 
-## GitHub Stats
+## Languages
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/amine9812/amine9812/main/github-metrics.svg?v=1"
-    alt="GitHub Metrics for amine9812"
-  />
+  <img src="./assets/languages-donut.svg" alt="Most used languages (donut)" width="520" />
+</div>
+
+## Contributions
+
+<div align="center">
+  <img src="./assets/contributions-grid.svg" alt="Contribution grid" width="980" />
 </div>
 
 ---
