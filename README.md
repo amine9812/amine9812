@@ -96,18 +96,7 @@
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amine9812&show_icons=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine9812&layout=compact&langs_count=12" alt="Top languages" />
-
-<br/>
-
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=amine9812" alt="GitHub streak" />
-
-</div>
-
----
+![amine9812's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Trophies (optional)
 
