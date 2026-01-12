@@ -86,7 +86,7 @@
 
 ## Featured Projects
 
-> Pin your best repositories on your GitHub profile and list them here.
+
 
 - **📌 [Erc-Sim](https://github.com/amine9812/simulator_ERC.git)** — Simulator for a mice maze hackathon w allowing to test the code before deploying it to the bot and testing the best algorithme for the maze .
 - **📌 [Pixel-game](https://github.com/amine9812/our-app1.git)** — pixel art game website.
