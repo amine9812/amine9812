@@ -98,26 +98,15 @@
 
 <div align="center">
 
-<a href="https://github.com/amine9812">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amine9812&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/amine9812">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine9812&layout=compact&langs_count=10&hide_border=true" alt="Top languages" />
-</a>
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amine9812&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&v=1)](https://github.com/amine9812)
+[![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amine9812&layout=compact&langs_count=10&hide_border=true&v=1)](https://github.com/amine9812)
 
-<br/>
+[![GitHub streak](https://streak-stats.demolab.com?user=amine9812&hide_border=true&v=1)](https://github.com/amine9812)
 
-<a href="https://github.com/amine9812">
-  <img height="190" src="https://streak-stats.demolab.com?user=amine9812&hide_border=true" alt="GitHub streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/amine9812">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amine9812&hide_border=true" alt="Activity graph" />
-</a>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amine9812&hide_border=true&v=1)](https://github.com/amine9812)
 
 </div>
+
 
 
 ---
