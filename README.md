@@ -98,11 +98,6 @@
 
 ![amine9812's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine9812&show_icons=true&theme=radical)
 
-## Trophies (optional)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amine9812&no-bg=true&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
 
 ---
 
