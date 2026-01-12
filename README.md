@@ -2,16 +2,16 @@
 
 # Hi, I’m **Amine** 👋
 
-**a student** building reliable systems across **Linux/Unix**, **C/C++**, and **full-stack applications** (desktop & web).
+**A student** building reliable systems across **Linux/Unix**, **C/C++**, and **full-stack applications** (desktop & web).
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amine9812&style=flat-square" alt="profile views" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" alt="followers" />
+  <img src="https://img.shields.io/github/followers/amine9812?label=Followers&style=flat-square" alt="followers" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square" alt="stars" />
+  <img src="https://img.shields.io/github/stars/amine9812?label=Stars&style=flat-square" alt="stars" />
 </a>
 
 <br/>
@@ -98,12 +98,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=12" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amine9812&show_icons=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine9812&layout=compact&langs_count=12" alt="Top languages" />
 
 <br/>
 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub streak" />
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=amine9812" alt="GitHub streak" />
 
 </div>
 
@@ -112,16 +112,14 @@
 ## Trophies (optional)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-bg=true&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amine9812&no-bg=true&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
 
 ## Connect
 
-- LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)**
-- Email: **your.email@example.com**
-- Portfolio: **https://your-portfolio.com**
+- Portfolio: **LOADING**
 
 ---
 
