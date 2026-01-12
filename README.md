@@ -94,22 +94,14 @@
 
 ---
 
-## GitHub Stats 
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/amine9812/amine9812/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-
-<img src="https://raw.githubusercontent.com/amine9812/amine9812/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" />
-<img src="https://raw.githubusercontent.com/amine9812/amine9812/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-
-<img src="https://raw.githubusercontent.com/amine9812/amine9812/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-<img src="https://raw.githubusercontent.com/amine9812/amine9812/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
-
+  <img
+    src="https://raw.githubusercontent.com/amine9812/amine9812/main/github-metrics.svg?v=1"
+    alt="GitHub Metrics for amine9812"
+  />
 </div>
-
-
-
 
 ---
 
