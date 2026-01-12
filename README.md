@@ -97,7 +97,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics for amine9812" />
+  <img src="https://raw.githubusercontent.com/amine9812/amine9812/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 
