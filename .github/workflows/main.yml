@@ -1,4 +1,3 @@
-.github/workflows/metrics.yml
 name: Metrics
 
 on:
