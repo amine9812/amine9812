@@ -1,0 +1,19 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: amine9812
+          THEME: github_dark
