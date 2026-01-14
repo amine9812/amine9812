@@ -86,8 +86,8 @@
 
 ## Featured Projects
 
-
-
+- **📌 [CovenantPulse](https://github.com/amine9812/LMA_loan_management_app.git)** — Loan Covenant and Obligation Compliance WEB/Desktop App
+- **📌 [BTS(Borrowing_trust_score](https://github.com/amine9812/Php-Emsi-borrowing_trust_track.git)** — A Laravel 12 + SQLite app to track borrowed items and compute transparent trust scores per borrower.
 - **📌 [Erc-Sim](https://github.com/amine9812/simulator_ERC.git)** — Simulator for a mice maze hackathon w allowing to test the code before deploying it to the bot and testing the best algorithme for the maze .
 - **📌 [Pixel-game](https://github.com/amine9812/our-app1.git)** — pixel art game website.
 - **📌 [e-com](https://github.com/amine9812/e-com.git)** — e-comerce website.
