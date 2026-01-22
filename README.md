@@ -111,7 +111,7 @@
 <h3>📈 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=amine9812&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Safae26&theme=dark&hide_border=false" width="100%" alt="Streak Stats" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=amine9812&theme=dark&hide_border=false" width="100%" alt="Streak Stats" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine9812&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="50%" alt="Top Langs" />
     </td>
